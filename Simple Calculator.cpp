@@ -1,7 +1,6 @@
 #include <iostream>
 
 int main() {
-    // Write C++ code here
     int n1 = 0;
     int n2 = 0;
     int ans = 0;
